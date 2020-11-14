@@ -5,3 +5,5 @@
 
 ## Link
 [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.output.ipsi)
+
+[시연 영상](https://www.youtube.com/watch?v=-lMzHzIqv34)
